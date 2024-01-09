@@ -10,10 +10,9 @@ function App() {
 
   return (
 
-  <div className='relative w-screen h-screen bg-zinc-800'>
+  <div className='relative w-screen h-screen bg-zinc-800' id='background'>
    <Background/>
-   <Foreground/>
-
+   <Foreground/> 
   </div>
 
   )
