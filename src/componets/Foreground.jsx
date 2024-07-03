@@ -11,6 +11,7 @@ const Foreground = () => {
         <Card reference={ref} />
         <Card reference={ref} />
         <Card reference={ref} />
+
         </div>
     </div>
   )
